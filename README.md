@@ -8,7 +8,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jhordan-bandeira" target="_blank">🔗 LinkedIn</a> |
-<a href="https://github.com/devBandeiraa" target="_blank">🔗 GitHub</a>
 </p>
 
 ---
