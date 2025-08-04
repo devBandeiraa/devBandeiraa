@@ -15,7 +15,7 @@
 
 ### 💼 Sobre mim
 
-Sou estudante de Ciência da Computação com grande interesse em **Ciência de Dados**, **Análise de Dados** e **Engenharia de Dados**. Atualmente atuo como estagiário de desenvolvimento na GuardianRH, onde trabalho com **SQL/Oracle**, **dashboards interativos**, **análise de dados** e **ambientes ERP**.
+Sou estudante de Ciência da Computação com grande interesse em **Ciência de Dados**, **Análise de Dados** e **Engenharia de Dados**. Atualmente trabalho com **SQL/Oracle**, **dashboards interativos**, **análise de dados** e **ambientes ERP**.
 
 Busco transformar dados em decisões inteligentes, sempre utilizando boas práticas de visualização, limpeza e exploração de dados.
 
