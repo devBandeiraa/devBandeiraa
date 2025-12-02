@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+Jhordan+Bandeira+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Jhordan+Bandeira+👋" />
 </div>
 
 ## About Me
@@ -8,16 +8,6 @@
 * Bacharelando em Ciência da Computação - UNIP (2023-2026)
 * Certificado Oracle Cloud Infrastructure (OCI) Foundations Associate
 * Atualmente desenvolvendo soluções com Spring Boot e Angular
-
-## GitHub Status
-
-<div align="center">
-  <a href="https://github.com/devBandeiraa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=tokyonight&hide_border=true"/>
-</div>
 
 ## Technologies
 
