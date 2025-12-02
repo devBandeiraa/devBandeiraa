@@ -1,8 +1,19 @@
 <div align="center">
 
-# 👋 Olá, eu sou Jhordan Bandeira
-
-### `Desenvolvedor Full Stack` | `Java ☕` | `Angular 🅰️`
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ██╗██╗  ██╗ ██████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗   ║
+║     ██║██║  ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║   ║
+║     ██║███████║██║   ██║██████╔╝██║  ██║███████║██╔██╗ ██║   ║
+║     ██║██╔══██║██║   ██║██╔══██╗██║  ██║██╔══██║██║╚██╗██║   ║
+║     ██║██║  ██║╚██████╔╝██████╔╝██████╔╝██║  ██║██║ ╚████║   ║
+║     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ║
+║                                                              ║
+║          FULL STACK DEVELOPER | JAVA ☕ | ANGULAR 🅰️         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ```java
 public class Developer {
@@ -10,21 +21,25 @@ public class Developer {
     private String role = "Full Stack Developer";
     private String[] stack = {"Java", "Spring Boot", "Angular", "TypeScript"};
     private String certification = "OCI Foundations Associate";
+    
+    public void code() {
+        System.out.println("Building the future, one commit at a time...");
+    }
 }
 ```
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=devBandeiraa&color=ED8B00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=devBandeiraa&color=00FF41&style=flat-square&label=VISITORS)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 💻 Sobre Mim
 
 ```typescript
 interface Developer {
@@ -43,7 +58,7 @@ interface Developer {
 }
 ```
 
-Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a criar soluções robustas, escaláveis e de alta qualidade. Combino a força do ecossistema Java no backend com interfaces modernas e responsivas em Angular, entregando aplicações completas que atendem às necessidades do mercado.
+> **Desenvolvedor Full Stack** especializado em **Java** e **Angular**, dedicado a criar soluções robustas, escaláveis e de alta qualidade. Combino a força do ecossistema Java no backend com interfaces modernas e responsivas em Angular, entregando aplicações completas que atendem às necessidades do mercado.
 
 ---
 
@@ -59,9 +74,9 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 
 ## 🛠️ Stack Tecnológica
 
-### ☕ Backend
-
 <div align="center">
+
+### ☕ **BACKEND**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -69,11 +84,7 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-</div>
-
-### 🅰️ Frontend
-
-<div align="center">
+### 🅰️ **FRONTEND**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,21 +92,13 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
-
-### 🗄️ Banco de Dados
-
-<div align="center">
+### 🗄️ **DATABASE**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
+### ☁️ **CLOUD & DEVOPS**
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -155,119 +158,155 @@ graph LR
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### ☕🅰️ Full Stack Java + Angular
+<div align="center">
+
+### ☕🅰️ **FULL STACK JAVA + ANGULAR**
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-#### 🚀 Sistema de Gestão Completo
-**Stack:** Spring Boot + Angular + JWT
+#### 🚀 Sistema de Gestão
+```
+Stack: Spring Boot + Angular + JWT
+Status: ✅ Em Produção
+```
 
+**Features:**
 - ✅ CRUD completo com validações
 - ✅ Autenticação JWT segura
-- ✅ Dashboard interativo com gráficos
-- ✅ API REST documentada com Swagger
-- ✅ Responsive design
+- ✅ Dashboard interativo
+- ✅ API REST documentada
+- ✅ Design responsivo
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 #### 📊 API REST Documentada
-**Stack:** Spring Boot + Swagger + JUnit
+```
+Stack: Spring Boot + Swagger
+Status: ✅ Completo
+```
 
-- ✅ Endpoints RESTful completos
-- ✅ Documentação Swagger/OpenAPI
-- ✅ Testes automatizados (JUnit)
-- ✅ Tratamento de erros padronizado
+**Features:**
+- ✅ Endpoints RESTful
+- ✅ Documentação Swagger
+- ✅ Testes automatizados
+- ✅ Tratamento de erros
 - ✅ Versionamento de API
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 #### 🎨 Dashboard Angular
-**Stack:** Angular + Material + RxJS
+```
+Stack: Angular + Material
+Status: ✅ Completo
+```
 
-- ✅ Interface moderna com Angular Material
-- ✅ Gráficos interativos (Chart.js)
-- ✅ Reactive Forms avançados
-- ✅ State Management com RxJS
+**Features:**
+- ✅ Interface moderna
+- ✅ Gráficos interativos
+- ✅ Reactive Forms
+- ✅ State Management
 - ✅ PWA ready
 
 </td>
-<td width="50%">
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 #### 🔐 Sistema de Autenticação
-**Stack:** Spring Security + Angular Guards
+```
+Stack: Spring Security + Guards
+Status: ✅ Completo
+```
 
-- ✅ Autenticação JWT completa
+**Features:**
+- ✅ Autenticação JWT
 - ✅ Refresh tokens
 - ✅ Guards e interceptors
-- ✅ Role-based access control
+- ✅ Role-based access
 - ✅ Proteção de rotas
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
-### ☕ Backend Java
+#### 🌐 Microserviços
+```
+Stack: Spring Cloud + Eureka
+Status: 🚧 Em Desenvolvimento
+```
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🌐 Arquitetura de Microserviços
-**Stack:** Spring Cloud + Eureka + Gateway
-
-- ✅ Service discovery (Eureka)
-- ✅ API Gateway configurado
-- ✅ Circuit breaker pattern
-- ✅ Config server centralizado
+**Features:**
+- ✅ Service discovery
+- ✅ API Gateway
+- ✅ Circuit breaker
+- ✅ Config server
 - ✅ Load balancing
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-#### 🗄️ Integração com Banco de Dados
-**Stack:** JPA/Hibernate + Oracle
+#### 🗄️ Integração com BD
+```
+Stack: JPA/Hibernate + Oracle
+Status: ✅ Completo
+```
 
-- ✅ Mapeamento ORM otimizado
-- ✅ Queries nativas e JPQL
+**Features:**
+- ✅ Mapeamento ORM
+- ✅ Queries otimizadas
 - ✅ Transações gerenciadas
 - ✅ Connection pooling
-- ✅ Migrations com Flyway
+- ✅ Migrations Flyway
 
 </td>
 </tr>
 </table>
 
-### ☁️ Cloud & Database
+<div align="center">
+
+### ☁️ **CLOUD & DATABASE**
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### ☁️ Deploy na Oracle Cloud
-**Stack:** OCI + Docker + CI/CD
+#### ☁️ Deploy Oracle Cloud
+```
+Stack: OCI + Docker + CI/CD
+Status: ✅ Deployado
+```
 
-- ✅ Containerização com Docker
-- ✅ Deploy automatizado na OCI
-- ✅ Configuração de ambientes
+**Features:**
+- ✅ Containerização Docker
+- ✅ Deploy automatizado
+- ✅ Ambientes configurados
 - ✅ Monitoramento e logs
-- ✅ Auto-scaling configurado
+- ✅ Auto-scaling
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### ⚡ Otimização de Queries
-**Stack:** Oracle + PL/SQL + Performance
+```
+Stack: Oracle + PL/SQL
+Status: ✅ Otimizado
+```
 
-- ✅ SQL avançado e otimizado
-- ✅ Stored procedures (PL/SQL)
+**Features:**
+- ✅ SQL avançado
+- ✅ Stored procedures
 - ✅ Análise de performance
 - ✅ Índices estratégicos
 - ✅ Query tuning
@@ -283,12 +322,12 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/devBandeiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
 </a>
 
 <a href="https://github.com/devBandeiraa">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
 </a>
 
 </div>
@@ -297,19 +336,22 @@ graph LR
 
 ## 🎓 Aprendizado Contínuo
 
-> *"☕ Java no backend, Angular no frontend, código de qualidade em ambos"*
-
-### 📚 Em Estudo
-
 <div align="center">
 
-| Backend | Frontend | Cloud & DevOps | Arquitetura |
-|---------|----------|----------------|-------------|
-| ☕ Java Avançado | 🅰️ Angular Avançado | ☁️ Oracle Cloud | 📚 Clean Architecture |
-| 🍃 Spring Ecosystem | 📱 State Management | 🐳 Docker & Kubernetes | 🏗️ DDD |
-| 🔒 Spring Security | ⚡ Performance | 🔄 CI/CD Pipelines | 🌐 Microserviços |
+> *"☕ Java no backend, Angular no frontend, código de qualidade em ambos"*
 
 </div>
+
+```bash
+$ cat aprendizado-continuo.txt
+
+☕ Java Avançado          → Streams, Lambda, Concorrência, Design Patterns
+🍃 Spring Ecosystem       → Spring Cloud, Spring Data, Spring Security
+🅰️ Angular Avançado       → State Management, Performance, Testing
+☁️ Oracle Cloud           → OCI Services, Container Engine, Functions
+🐳 DevOps                 → Docker, CI/CD Pipelines, Kubernetes
+📚 Arquitetura            → Clean Architecture, DDD, Microserviços
+```
 
 ---
 
@@ -328,13 +370,20 @@ graph LR
 
 <div align="center">
 
-### 💼 `"☕ Java + Angular = Soluções Completas"` 🚀
-
-```java
-System.out.println("⭐ Obrigado pela visita! Explore meus repositórios e vamos codar juntos! ⭐");
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ☕ Java + Angular = Soluções Completas 🚀               ║
+║                                                              ║
+║     ⭐ Obrigado pela visita! Explore meus repositórios      ║
+║        e vamos codar juntos! ⭐                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
+```java
+System.out.println("Building the future, one commit at a time...");
+```
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
