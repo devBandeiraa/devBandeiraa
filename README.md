@@ -2,12 +2,23 @@
 
 # 👋 Olá, eu sou Jhordan Bandeira
 
-### Desenvolvedor Full Stack | Java ☕ | Angular 🅰️
+### `Desenvolvedor Full Stack` | `Java ☕` | `Angular 🅰️`
+
+```java
+public class Developer {
+    private String name = "Jhordan Bandeira";
+    private String role = "Full Stack Developer";
+    private String[] stack = {"Java", "Spring Boot", "Angular", "TypeScript"};
+    private String certification = "OCI Foundations Associate";
+}
+```
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=devBandeiraa&color=ED8B00&style=for-the-badge)
 
 </div>
 
@@ -15,18 +26,24 @@
 
 ## 👨‍💻 Sobre Mim
 
+```typescript
+interface Developer {
+  name: string;
+  role: "Full Stack Developer";
+  specialization: {
+    backend: ["Java", "Spring Boot", "Spring Security"];
+    frontend: ["Angular", "TypeScript", "RxJS"];
+    database: ["Oracle", "MySQL", "PostgreSQL"];
+    cloud: ["Oracle Cloud Infrastructure"];
+  };
+  experience: "1+ years";
+  education: "Bacharelando em Ciência da Computação - UNIP (2023-2026)";
+  certification: "OCI Foundations Associate";
+  location: "Boituva, SP - Brasil";
+}
+```
+
 Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a criar soluções robustas, escaláveis e de alta qualidade. Combino a força do ecossistema Java no backend com interfaces modernas e responsivas em Angular, entregando aplicações completas que atendem às necessidades do mercado.
-
-### 📋 Informações Profissionais
-
-| Item | Detalhes |
-|------|----------|
-| 🎓 **Formação** | Bacharelando em Ciência da Computação - UNIP (2023-2026) |
-| ☕ **Especialização** | Java, Spring Boot, Angular, TypeScript |
-| 🏆 **Certificação** | Oracle Cloud Infrastructure (OCI) Foundations Associate |
-| 💼 **Experiência** | +1 ano em desenvolvimento e SQL/Oracle |
-| 📍 **Localização** | Boituva, SP - Brasil |
-| 🎯 **Objetivo** | Desenvolvedor Full Stack Java + Angular |
 
 ---
 
@@ -34,17 +51,17 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 
 <div align="center">
 
-![OCI Foundations Associate](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![OCI Foundations Associate](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/certification/)
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
 ### ☕ Backend
 
-<div align="left">
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -56,7 +73,7 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 
 ### 🅰️ Frontend
 
-<div align="left">
+<div align="center">
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +85,7 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 
 ### 🗄️ Banco de Dados
 
-<div align="left">
+<div align="center">
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,7 +95,7 @@ Desenvolvedor **Full Stack** especializado em **Java** e **Angular**, dedicado a
 
 ### ☁️ Cloud & DevOps
 
-<div align="left">
+<div align="center">
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -142,21 +159,122 @@ graph LR
 
 ### ☕🅰️ Full Stack Java + Angular
 
-- **Sistema de Gestão Completo** - CRUD completo com Spring Boot + Angular, autenticação JWT e dashboard interativo
-- **API REST Documentada** - Backend Java com Spring Boot, documentação Swagger e testes automatizados
-- **Dashboard Angular** - Interface moderna com Angular Material, gráficos interativos e responsividade
-- **Sistema de Autenticação** - Implementação segura com Spring Security + Angular Guards e refresh tokens
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 Sistema de Gestão Completo
+**Stack:** Spring Boot + Angular + JWT
+
+- ✅ CRUD completo com validações
+- ✅ Autenticação JWT segura
+- ✅ Dashboard interativo com gráficos
+- ✅ API REST documentada com Swagger
+- ✅ Responsive design
+
+</td>
+<td width="50%">
+
+#### 📊 API REST Documentada
+**Stack:** Spring Boot + Swagger + JUnit
+
+- ✅ Endpoints RESTful completos
+- ✅ Documentação Swagger/OpenAPI
+- ✅ Testes automatizados (JUnit)
+- ✅ Tratamento de erros padronizado
+- ✅ Versionamento de API
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎨 Dashboard Angular
+**Stack:** Angular + Material + RxJS
+
+- ✅ Interface moderna com Angular Material
+- ✅ Gráficos interativos (Chart.js)
+- ✅ Reactive Forms avançados
+- ✅ State Management com RxJS
+- ✅ PWA ready
+
+</td>
+<td width="50%">
+
+#### 🔐 Sistema de Autenticação
+**Stack:** Spring Security + Angular Guards
+
+- ✅ Autenticação JWT completa
+- ✅ Refresh tokens
+- ✅ Guards e interceptors
+- ✅ Role-based access control
+- ✅ Proteção de rotas
+
+</td>
+</tr>
+</table>
 
 ### ☕ Backend Java
 
-- **Arquitetura de Microserviços** - Sistema distribuído com Spring Cloud, service discovery e API Gateway
-- **API RESTful** - Endpoints documentados, versionamento de API e tratamento de erros padronizado
-- **Integração com Banco de Dados** - JPA/Hibernate, queries otimizadas e transações gerenciadas
+<table>
+<tr>
+<td width="50%">
 
-### 🗄️ Database & Cloud
+#### 🌐 Arquitetura de Microserviços
+**Stack:** Spring Cloud + Eureka + Gateway
 
-- **Deploy na Oracle Cloud** - Configuração e deploy de aplicações na OCI com containerização
-- **Otimização de Queries** - SQL avançado, PL/SQL e análise de performance de banco de dados
+- ✅ Service discovery (Eureka)
+- ✅ API Gateway configurado
+- ✅ Circuit breaker pattern
+- ✅ Config server centralizado
+- ✅ Load balancing
+
+</td>
+<td width="50%">
+
+#### 🗄️ Integração com Banco de Dados
+**Stack:** JPA/Hibernate + Oracle
+
+- ✅ Mapeamento ORM otimizado
+- ✅ Queries nativas e JPQL
+- ✅ Transações gerenciadas
+- ✅ Connection pooling
+- ✅ Migrations com Flyway
+
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Database
+
+<table>
+<tr>
+<td width="50%">
+
+#### ☁️ Deploy na Oracle Cloud
+**Stack:** OCI + Docker + CI/CD
+
+- ✅ Containerização com Docker
+- ✅ Deploy automatizado na OCI
+- ✅ Configuração de ambientes
+- ✅ Monitoramento e logs
+- ✅ Auto-scaling configurado
+
+</td>
+<td width="50%">
+
+#### ⚡ Otimização de Queries
+**Stack:** Oracle + PL/SQL + Performance
+
+- ✅ SQL avançado e otimizado
+- ✅ Stored procedures (PL/SQL)
+- ✅ Análise de performance
+- ✅ Índices estratégicos
+- ✅ Query tuning
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,23 +282,16 @@ graph LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+<a href="https://github.com/devBandeiraa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ED8B00"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=tokyonight&hide_border=true)
+<a href="https://github.com/devBandeiraa">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=tokyonight&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00"/>
+</a>
 
 </div>
-
----
-
-## 🚀 Objetivos 2025
-
-- [x] **Certificação OCI** - Oracle Cloud Infrastructure Foundations Associate
-- [ ] **Projeto Full Stack em Produção** - Sistema completo Java + Angular deployado
-- [ ] **Arquitetura de Microserviços** - Implementação com Spring Cloud
-- [ ] **Deploy na Cloud** - Aplicações rodando na Oracle Cloud Infrastructure
-- [ ] **Contribuições Open Source** - Participação ativa em projetos Java/Angular
-- [ ] **Evolução Profissional** - Desenvolvedor Full Stack Java + Angular Pleno
 
 ---
 
@@ -190,12 +301,15 @@ graph LR
 
 ### 📚 Em Estudo
 
-- ☕ **Java Avançado** - Streams, Lambda, Concorrência, Design Patterns
-- 🍃 **Spring Ecosystem** - Spring Cloud, Spring Data, Spring Security Avançado
-- 🅰️ **Angular Avançado** - State Management, Performance Optimization, Testing
-- ☁️ **Oracle Cloud** - OCI Services, Container Engine, Serverless Functions
-- 🐳 **DevOps** - Docker, CI/CD Pipelines, Kubernetes
-- 📚 **Arquitetura** - Clean Architecture, DDD, Microserviços Patterns
+<div align="center">
+
+| Backend | Frontend | Cloud & DevOps | Arquitetura |
+|---------|----------|----------------|-------------|
+| ☕ Java Avançado | 🅰️ Angular Avançado | ☁️ Oracle Cloud | 📚 Clean Architecture |
+| 🍃 Spring Ecosystem | 📱 State Management | 🐳 Docker & Kubernetes | 🏗️ DDD |
+| 🔒 Spring Security | ⚡ Performance | 🔄 CI/CD Pipelines | 🌐 Microserviços |
+
+</div>
 
 ---
 
@@ -214,9 +328,11 @@ graph LR
 
 <div align="center">
 
-### 💼 "☕ Java + Angular = Soluções Completas" 🚀
+### 💼 `"☕ Java + Angular = Soluções Completas"` 🚀
 
-⭐ **Obrigado pela visita! Explore meus repositórios e vamos codar juntos!** ⭐
+```java
+System.out.println("⭐ Obrigado pela visita! Explore meus repositórios e vamos codar juntos! ⭐");
+```
 
 ---
 
@@ -224,5 +340,7 @@ graph LR
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Feito com ☕ e 🅰️**
 
 </div>
