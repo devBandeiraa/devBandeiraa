@@ -1,395 +1,65 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ██╗██╗  ██╗ ██████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗   ║
-║     ██║██║  ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║   ║
-║     ██║███████║██║   ██║██████╔╝██║  ██║███████║██╔██╗ ██║   ║
-║     ██║██╔══██║██║   ██║██╔══██╗██║  ██║██╔══██║██║╚██╗██║   ║
-║     ██║██║  ██║╚██████╔╝██████╔╝██████╔╝██║  ██║██║ ╚████║   ║
-║     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ║
-║                                                              ║
-║          FULL STACK DEVELOPER | JAVA ☕ | ANGULAR 🅰️         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```java
-public class Developer {
-    private String name = "Jhordan Bandeira";
-    private String role = "Full Stack Developer";
-    private String[] stack = {"Java", "Spring Boot", "Angular", "TypeScript"};
-    private String certification = "OCI Foundations Associate";
-    
-    public void code() {
-        System.out.println("Building the future, one commit at a time...");
-    }
-}
-```
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=devBandeiraa&color=00FF41&style=flat-square&label=VISITORS)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+Jhordan+Bandeira+👋" />
 </div>
 
----
+## About Me
 
-## 💻 Sobre Mim
+* Full Stack Developer especializado em Java e Angular
+* Bacharelando em Ciência da Computação - UNIP (2023-2026)
+* Certificado Oracle Cloud Infrastructure (OCI) Foundations Associate
+* Atualmente desenvolvendo soluções com Spring Boot e Angular
 
-```typescript
-interface Developer {
-  name: string;
-  role: "Full Stack Developer";
-  specialization: {
-    backend: ["Java", "Spring Boot", "Spring Security"];
-    frontend: ["Angular", "TypeScript", "RxJS"];
-    database: ["Oracle", "MySQL", "PostgreSQL"];
-    cloud: ["Oracle Cloud Infrastructure"];
-  };
-  experience: "1+ years";
-  education: "Bacharelando em Ciência da Computação - UNIP (2023-2026)";
-  certification: "OCI Foundations Associate";
-  location: "Boituva, SP - Brasil";
-}
-```
-
-> **Desenvolvedor Full Stack** especializado em **Java** e **Angular**, dedicado a criar soluções robustas, escaláveis e de alta qualidade. Combino a força do ecossistema Java no backend com interfaces modernas e responsivas em Angular, entregando aplicações completas que atendem às necessidades do mercado.
-
----
-
-## 🏆 Certificações
+## GitHub Status
 
 <div align="center">
-
-[![OCI Foundations Associate](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/certification/)
-
+  <a href="https://github.com/devBandeiraa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## 🛠️ Stack Tecnológica
+## Technologies
 
 <div align="center">
-
-### ☕ **BACKEND**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### 🅰️ **FRONTEND**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗄️ **DATABASE**
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ **CLOUD & DEVOPS**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
----
+## Projects
 
-## 💡 Competências Técnicas
+### Full Stack Java + Angular
+* **Sistema de Gestão** - CRUD completo com Spring Boot + Angular, autenticação JWT e dashboard interativo
+* **API REST Documentada** - Backend Java com Spring Boot, documentação Swagger e testes automatizados
+* **Dashboard Angular** - Interface moderna com Angular Material, gráficos interativos e responsividade
 
-```java
-public class JhordanBandeira {
-    
-    // ☕ Backend Java
-    private String[] backendSkills = {
-        "Java 8+", "Spring Boot", "Spring MVC", "Spring Security",
-        "JPA/Hibernate", "REST APIs", "Maven", "Microserviços",
-        "Design Patterns", "SOLID Principles", "Clean Code"
-    };
-    
-    // 🅰️ Frontend Angular
-    private String[] frontendSkills = {
-        "Angular 15+", "TypeScript", "RxJS", "Angular Material",
-        "Component Architecture", "Services & Dependency Injection",
-        "Routing & Guards", "HTTP Client", "Reactive Forms"
-    };
-    
-    // 🗄️ Database & Cloud
-    private String[] databaseCloud = {
-        "Oracle Database", "SQL Avançado", "PL/SQL",
-        "Oracle Cloud Infrastructure (OCI)", "Cloud Architecture"
-    };
-    
-    // 🔧 Tools & Practices
-    private String[] toolsPractices = {
-        "Git/GitHub", "Docker", "Agile/Scrum",
-        "API Design", "Test-Driven Development", "CI/CD"
-    };
-}
-```
+### Backend Java
+* **Arquitetura de Microserviços** - Sistema distribuído com Spring Cloud, service discovery e API Gateway
+* **Integração com Banco de Dados** - JPA/Hibernate, queries otimizadas e transações gerenciadas
 
----
+### Cloud & Database
+* **Deploy na Oracle Cloud** - Configuração e deploy de aplicações na OCI com containerização
+* **Otimização de Queries** - SQL avançado, PL/SQL e análise de performance
 
-## 📈 Jornada Profissional
-
-```mermaid
-graph LR
-    A[Análise de Dados] --> B[SQL Expert]
-    B --> C[Java Learning]
-    C --> D[Spring Boot]
-    D --> E[Angular]
-    E --> F[Full Stack Developer]
-    F --> G[OCI Certified]
-```
-
----
-
-## 🚀 Projetos em Destaque
+## Contacts
 
 <div align="center">
-
-### ☕🅰️ **FULL STACK JAVA + ANGULAR**
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🚀 Sistema de Gestão
-```
-Stack: Spring Boot + Angular + JWT
-Status: ✅ Em Produção
-```
-
-**Features:**
-- ✅ CRUD completo com validações
-- ✅ Autenticação JWT segura
-- ✅ Dashboard interativo
-- ✅ API REST documentada
-- ✅ Design responsivo
-
-</td>
-<td width="33%" valign="top">
-
-#### 📊 API REST Documentada
-```
-Stack: Spring Boot + Swagger
-Status: ✅ Completo
-```
-
-**Features:**
-- ✅ Endpoints RESTful
-- ✅ Documentação Swagger
-- ✅ Testes automatizados
-- ✅ Tratamento de erros
-- ✅ Versionamento de API
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎨 Dashboard Angular
-```
-Stack: Angular + Material
-Status: ✅ Completo
-```
-
-**Features:**
-- ✅ Interface moderna
-- ✅ Gráficos interativos
-- ✅ Reactive Forms
-- ✅ State Management
-- ✅ PWA ready
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🔐 Sistema de Autenticação
-```
-Stack: Spring Security + Guards
-Status: ✅ Completo
-```
-
-**Features:**
-- ✅ Autenticação JWT
-- ✅ Refresh tokens
-- ✅ Guards e interceptors
-- ✅ Role-based access
-- ✅ Proteção de rotas
-
-</td>
-<td width="33%" valign="top">
-
-#### 🌐 Microserviços
-```
-Stack: Spring Cloud + Eureka
-Status: 🚧 Em Desenvolvimento
-```
-
-**Features:**
-- ✅ Service discovery
-- ✅ API Gateway
-- ✅ Circuit breaker
-- ✅ Config server
-- ✅ Load balancing
-
-</td>
-<td width="33%" valign="top">
-
-#### 🗄️ Integração com BD
-```
-Stack: JPA/Hibernate + Oracle
-Status: ✅ Completo
-```
-
-**Features:**
-- ✅ Mapeamento ORM
-- ✅ Queries otimizadas
-- ✅ Transações gerenciadas
-- ✅ Connection pooling
-- ✅ Migrations Flyway
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### ☁️ **CLOUD & DATABASE**
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ☁️ Deploy Oracle Cloud
-```
-Stack: OCI + Docker + CI/CD
-Status: ✅ Deployado
-```
-
-**Features:**
-- ✅ Containerização Docker
-- ✅ Deploy automatizado
-- ✅ Ambientes configurados
-- ✅ Monitoramento e logs
-- ✅ Auto-scaling
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ Otimização de Queries
-```
-Stack: Oracle + PL/SQL
-Status: ✅ Otimizado
-```
-
-**Features:**
-- ✅ SQL avançado
-- ✅ Stored procedures
-- ✅ Análise de performance
-- ✅ Índices estratégicos
-- ✅ Query tuning
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/devBandeiraa">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devBandeiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBandeiraa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
-</a>
-
-<a href="https://github.com/devBandeiraa">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBandeiraa&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
-</a>
-
-</div>
-
----
-
-## 🎓 Aprendizado Contínuo
-
-<div align="center">
-
-> *"☕ Java no backend, Angular no frontend, código de qualidade em ambos"*
-
-</div>
-
-```bash
-$ cat aprendizado-continuo.txt
-
-☕ Java Avançado          → Streams, Lambda, Concorrência, Design Patterns
-🍃 Spring Ecosystem       → Spring Cloud, Spring Data, Spring Security
-🅰️ Angular Avançado       → State Management, Performance, Testing
-☁️ Oracle Cloud           → OCI Services, Container Engine, Functions
-🐳 DevOps                 → Docker, CI/CD Pipelines, Kubernetes
-📚 Arquitetura            → Clean Architecture, DDD, Microserviços
-```
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordan-bandeira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordanbandeira1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515992509779)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devBandeiraa)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ☕ Java + Angular = Soluções Completas 🚀               ║
-║                                                              ║
-║     ⭐ Obrigado pela visita! Explore meus repositórios      ║
-║        e vamos codar juntos! ⭐                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```java
-System.out.println("Building the future, one commit at a time...");
-```
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Feito com ☕ e 🅰️**
-
+  <a href="https://www.linkedin.com/in/jhordan-bandeira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jhordanbandeira1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/5515992509779" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/devBandeiraa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
