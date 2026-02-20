@@ -1,55 +1,84 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Jhordan+Bandeira+👋" />
-</div>
+# Jhordan Bandeira  
+**Backend Developer | E-commerce & Integrations**
 
-## About Me
+---
 
-* Full Stack Developer especializado em Java e Angular
-* Bacharelando em Ciência da Computação - UNIP (2023-2026)
-* Certificado Oracle Cloud Infrastructure (OCI) Foundations Associate
-* Atualmente desenvolvendo soluções com Spring Boot e Angular
+## Sobre mim
 
-## Technologies
+Desenvolvedor backend com atuação em e-commerce e foco em arquitetura, integrações e qualidade de entrega. Trabalho com regras de negócio, APIs, fluxos de dados e integrações externas em ambientes de alta demanda.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
+Tenho experiência em **Salesforce Commerce Cloud (SFCC)**, **Java** e **Node.js**, além de integrações com sistemas de catálogo (Google Merchant, Meta Catalog), feeds XML e APIs REST. Atuo com SQL e bancos relacionais para modelagem e consultas, e utilizo Git, VSCode e ambientes sandbox no dia a dia.
 
-## Projects
+Busco evolução técnica contínua e oportunidades de atuação em contextos internacionais, com inglês em nível intermediário e disposição para trabalhar em times distribuídos.
 
-### Full Stack Java + Angular
-* **Sistema de Gestão** - CRUD completo com Spring Boot + Angular, autenticação JWT e dashboard interativo
-* **API REST Documentada** - Backend Java com Spring Boot, documentação Swagger e testes automatizados
-* **Dashboard Angular** - Interface moderna com Angular Material, gráficos interativos e responsividade
+---
 
-### Backend Java
-* **Arquitetura de Microserviços** - Sistema distribuído com Spring Cloud, service discovery e API Gateway
-* **Integração com Banco de Dados** - JPA/Hibernate, queries otimizadas e transações gerenciadas
+## Stack técnica
 
-### Cloud & Database
-* **Deploy na Oracle Cloud** - Configuração e deploy de aplicações na OCI com containerização
-* **Otimização de Queries** - SQL avançado, PL/SQL e análise de performance
+### Linguagens
+- **Java** — aplicações backend e integrações
+- **JavaScript / Node.js** — APIs e scripts server-side
 
-## Contacts
+### Backend
+- APIs REST e design de contratos
+- Integrações externas (webhooks, feeds, sincronização de dados)
+- Regras de negócio e manipulação de dados em escala
+- XML e JSON (parsing, transformação, validação)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jhordan-bandeira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jhordanbandeira1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5515992509779" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/devBandeiraa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+### E-commerce
+- **Salesforce Commerce Cloud (SFCC)** — scripts, jobs, cartridges
+- **PromotionMgr** — promoções e regras de desconto
+- Jobs agendados e processamento em background
+- Feeds de produto (XML/JSON) para marketplaces e canais
+
+### Banco de dados
+- SQL e bancos relacionais
+- Consultas, modelagem e otimização de queries
+- Transações e consistência de dados
+
+### Ferramentas
+- **Git** — versionamento e fluxos de trabalho
+- **VSCode** — desenvolvimento e debugging
+- Ambientes sandbox e pipelines de deploy
+
+---
+
+## Experiência técnica
+
+- **SFCC (Salesforce Commerce Cloud):** desenvolvimento de cartridges, scripts (OCAPI, Script API), jobs para sincronização e processamento em lote, integração com PromotionMgr para promoções e descontos.
+- **APIs REST:** desenho e implementação de endpoints, documentação, versionamento e consumo de APIs de terceiros.
+- **Integrações:** feeds XML/JSON para Google Merchant e Meta Catalog; sincronização de catálogos, inventário e preços; tratamento de erros e retentativas.
+- **Backend:** lógica de negócio, validações, transformação de dados e garantia de performance em fluxos críticos.
+- **Banco de dados:** escrita de queries SQL, joins, agregações e ajustes para melhorar performance e clareza dos dados.
+
+---
+
+## Projetos em destaque
+
+- **APIs e integrações** — Backend com Java/Node.js: endpoints REST, integração com sistemas externos, validação e normalização de dados.
+- **E-commerce e SFCC** — Scripts e jobs em Salesforce Commerce Cloud, regras de promoção (PromotionMgr), feeds de produto e sincronização com marketplaces.
+- **Feeds e catálogos** — Geração e consumo de feeds XML/JSON para Google Merchant e Meta Catalog; pipelines de dados e tratamento de erros.
+
+*(Repositórios e detalhes adicionais disponíveis sob solicitação.)*
+
+---
+
+## Objetivos profissionais
+
+- Aprofundar expertise em arquitetura backend, performance e sistemas distribuídos.
+- Atuar em projetos de e-commerce e integrações em escala, com foco em qualidade e manutenibilidade.
+- Crescer em contextos internacionais: times remotos, documentação em inglês e padrões de mercado global.
+
+---
+
+## Contato
+
+| Canal        | Link |
+|-------------|------|
+| **LinkedIn** | [linkedin.com/in/jhordan-bandeira](https://www.linkedin.com/in/jhordan-bandeira) |
+| **Email**    | [jhordanbandeira1@gmail.com](mailto:jhordanbandeira1@gmail.com) |
+| **GitHub**   | [github.com/devBandeiraa](https://github.com/devBandeiraa) |
+
+---
+
+*Backend Developer — E-commerce, APIs & Integrations*
