@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9"/>
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=devBandeiraa&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
+
 
 </div>
 
