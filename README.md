@@ -56,14 +56,6 @@ public class Jhordan {
 
 </div>
 
-<div align="center">
-
-<img src="https://github.com/devBandeiraa/ticket-platform/raw/main/docs/imagens/demo-concorrencia.gif" width="85%" alt="30 reservas simultâneas contra 10 ingressos"/>
-
-<sub>30 reservas simultâneas contra um evento de 10 ingressos: 10 confirmadas, 20 recusadas, zero vendidas a mais.</sub>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:10B981&height=3&width=100%" width="100%"/>
 
 ## `> outros projetos`
