@@ -176,7 +176,7 @@ const jhordan = {
 ## `> git log --experiencia`
 
 <details open>
-<summary>💼 &nbsp;<b>Desenvolvedor Backend Júnior — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jun/2026</code> · remoto</summary>
+<summary>💼 &nbsp;<b>Desenvolvedor Fullstack Júnior — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jun/2026</code> · remoto</summary>
 
 <br/>
 
