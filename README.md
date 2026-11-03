@@ -47,6 +47,7 @@ const jhordan = {
 
 ## `> agora`
 
+- 🏠 **Construindo a Orlatech:** site e gestão comercial para imobiliárias, com um sócio que cuida do comercial enquanto eu cuido da parte técnica
 - 🔨 **Desenhando o Reconcilia:** conciliação de pagamentos entre loja, gateway e ERP, com um agente de IA que investiga cada divergência e sugere a correção (NestJS + Next.js)
 - 📚 **Estudando:** NestJS e filas com BullMQ, a base do Reconcilia
 - 🎓 **Cursando:** Ciência da Computação na UNIP
@@ -57,6 +58,22 @@ const jhordan = {
 ## `> projetos`
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏠 Orlatech · sistemas para imobiliárias &nbsp;<img src="https://img.shields.io/badge/em_andamento-c%C3%B3digo_privado-D29922?style=flat-square" alt="Em andamento, código privado" align="center"/>
+
+**Projeto real, em sociedade: site para a imobiliária exibir seus imóveis e um painel de gestão comercial.**
+
+- Site público com o catálogo de imóveis e painel de controle para a equipe
+- Gestão comercial de ponta a ponta: leads, atendimento, visitas, negociação, documentação e contratos
+- Uma instância por imobiliária, com tema, logo, textos e módulos configuráveis
+- Infra planejada para VPS com Docker e Coolify, com imagens no Cloudflare R2
+
+`Next.js` `Payload CMS` `PostgreSQL` `TypeScript` `Docker` `Cloudflare R2`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
