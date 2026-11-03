@@ -10,7 +10,39 @@
 <a href="mailto:jhordanbandeira1@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Aberto_a_vagas-remoto_%7C_h%C3%ADbrido_%7C_presencial-3FB950?style=for-the-badge" alt="Aberto a vagas: remoto, híbrido ou presencial"/>
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,prisma,supabase,postgres,redis,rabbitmq&perline=9&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Prisma, Supabase, PostgreSQL, Redis, RabbitMQ"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,java,spring,git,github,vscode,postman&perline=9&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Java, Spring, Git, GitHub, VS Code, Postman"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/Anthropic_API-161B22?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API"/>
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Zod-161B22?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod"/>
+<img src="https://img.shields.io/badge/Vitest-161B22?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest"/>
+<img src="https://img.shields.io/badge/Salesforce_Commerce_Cloud-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" alt="Salesforce Commerce Cloud"/>
+
 </div>
+
+<details>
+<summary>🧰 &nbsp;<b>Stack completa</b> &nbsp;—&nbsp; <i>clique para expandir</i></summary>
+<br/>
+
+```yaml
+fullstack:   [Node.js, TypeScript, React, TanStack Start, APIs REST, WebSocket]
+ia:          [Agentes com tool calling, MCP com OAuth, Anthropic API, Gemini, Claude Code, Cursor]
+dados:       [PostgreSQL, Supabase, Prisma, Oracle, SQL Server, Redis, RabbitMQ, Azure Data Factory]
+qualidade:   [Vitest, Zod, Testcontainers, JUnit 5, CI no GitHub Actions]
+infra:       [Docker, Kubernetes, OpenTelemetry, Prometheus, Grafana]
+tambem:      [Java 17, Spring Boot 3, Salesforce Commerce Cloud (SFRA, ISML)]
+```
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:79C0FF&height=3&width=100%" width="100%"/>
 
@@ -140,38 +172,6 @@ const jhordan = {
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:79C0FF,100:3FB950&height=3&width=100%" width="100%"/>
-
-## `> stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,prisma,supabase,postgres,redis,rabbitmq&perline=9&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Prisma, Supabase, PostgreSQL, Redis, RabbitMQ"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,java,spring,git,github,vscode,postman&perline=9&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Java, Spring, Git, GitHub, VS Code, Postman"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-<img src="https://img.shields.io/badge/Anthropic_API-161B22?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API"/>
-<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Zod-161B22?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod"/>
-<img src="https://img.shields.io/badge/Vitest-161B22?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest"/>
-<img src="https://img.shields.io/badge/Salesforce_Commerce_Cloud-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" alt="Salesforce Commerce Cloud"/>
-
-</div>
-
-```yaml
-fullstack:   [Node.js, TypeScript, React, TanStack Start, APIs REST, WebSocket]
-ia:          [Agentes com tool calling, MCP com OAuth, Anthropic API, Gemini, Claude Code, Cursor]
-dados:       [PostgreSQL, Supabase, Prisma, Oracle, SQL Server, Redis, RabbitMQ, Azure Data Factory]
-qualidade:   [Vitest, Zod, Testcontainers, JUnit 5, CI no GitHub Actions]
-infra:       [Docker, Kubernetes, OpenTelemetry, Prometheus, Grafana]
-tambem:      [Java 17, Spring Boot 3, Salesforce Commerce Cloud (SFRA, ISML)]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:79C0FF&height=3&width=100%" width="100%"/>
 
 ## `> git log --experiencia`
 
