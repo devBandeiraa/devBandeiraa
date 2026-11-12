@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Jhordan Gabriel Bandeira — Desenvolvedor Fullstack · Node.js · TypeScript · React"/>
+<img src="./assets/header.svg" width="100%" alt="Jhordan Gabriel Bandeira — Fullstack &amp; AI Engineer · Node.js · TypeScript · React"/>
 
 <br/><br/>
 
@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,prisma,supabase,postgres,redis,rabbitmq&perline=9&theme=dark" alt="TypeScript, JavaScript, Node.js, React, Prisma, Supabase, PostgreSQL, Redis, RabbitMQ"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,prisma,postgres,supabase,redis&perline=10&theme=dark" alt="TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Prisma, PostgreSQL, Supabase, Redis"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,java,spring,git,github,vscode,postman&perline=9&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Java, Spring, Git, GitHub, VS Code, Postman"/>
+<img src="https://skillicons.dev/icons?i=rabbitmq,docker,kubernetes,githubactions,vercel,java,spring,python,git,postman&perline=10&theme=dark" alt="RabbitMQ, Docker, Kubernetes, GitHub Actions, Vercel, Java, Spring, Python, Git, Postman"/>
 
 <br/><br/>
 
@@ -34,11 +34,11 @@
 <br/>
 
 ```yaml
-fullstack:   [Node.js, TypeScript, React, TanStack Start, APIs REST, WebSocket]
-ia:          [Agentes com tool calling, MCP com OAuth, Anthropic API, Gemini, Claude Code, Cursor]
-dados:       [PostgreSQL, Supabase, Prisma, Oracle, SQL Server, Redis, RabbitMQ, Azure Data Factory]
+fullstack:   [Node.js, TypeScript, NestJS, React, Next.js, TanStack Start, APIs REST, WebSocket, webhooks]
+ia:          [Agentes com tool calling, LLMs, MCP com OAuth, Anthropic API, Gemini, RAG (estudando), Claude Code, Cursor]
+dados:       [PostgreSQL, Supabase, Neon, Prisma, Oracle, SQL Server, Redis, RabbitMQ, pg-boss, Azure Data Factory]
 qualidade:   [Vitest, Zod, Testcontainers, JUnit 5, CI no GitHub Actions]
-infra:       [Docker, Kubernetes, OpenTelemetry, Prometheus, Grafana]
+infra:       [Docker, Kubernetes, Vercel, Render, OpenTelemetry, Prometheus, Grafana]
 tambem:      [Java 17, Spring Boot 3, Salesforce Commerce Cloud (SFRA, ISML)]
 ```
 
@@ -48,19 +48,20 @@ tambem:      [Java 17, Spring Boot 3, Salesforce Commerce Cloud (SFRA, ISML)]
 
 ## `> whoami`
 
-Investigo o pedido que parou entre o e-commerce, o ERP e o gateway de pagamento, e acho onde ele travou. Foi isso que fiz por 6 meses na **Backlgrs**, sustentando **cinco lojas B2C em Salesforce Commerce Cloud ao mesmo tempo**.
+Passei 6 meses na **Backlgrs** rastreando pedidos que travavam entre o e-commerce, o gateway de pagamento e o ERP: **mais de 15 incidentes por semana, em 5 lojas B2C** de Salesforce Commerce Cloud. Depois construí o sistema que eu queria ter naquela época, o **[Reconcilia](https://github.com/devBandeiraa/reconcilia)**, com um agente de IA que investiga cada divergência.
 
-Sou **desenvolvedor fullstack** com foco em **Node.js, TypeScript e React**, e também trabalho com **Java e Spring Boot**. Gosto de trabalhar onde os sistemas conversam: pedidos, pagamentos, webhooks e dados que precisam bater entre plataformas diferentes.
+Sou **Fullstack & AI Engineer** com foco em **Node.js, TypeScript e React**. Hoje, na **BNW**, desenvolvo agentes de IA com tool calling e automações de prospecção B2B. Gosto de trabalhar onde os sistemas conversam: pedidos, pagamentos, webhooks e dados que precisam bater entre plataformas diferentes.
 
-Antes, na **Guardian RH**, passei 1 ano e 7 meses com SQL em Oracle e SQL Server, otimizando consultas e migrando dados com Azure Data Factory. Hoje construo com **IA aplicada**: agentes que chamam ferramentas de verdade, servidores **MCP com OAuth** e Claude Code no dia a dia, sempre entendendo a arquitetura antes de mexer no código.
+Antes, na **Guardian RH**, passei 1 ano e 7 meses com SQL em Oracle e SQL Server, otimizando consultas e migrando dados com Azure Data Factory. Também trabalho com **Java e Spring Boot**, e uso **MCP com OAuth** e Claude Code no dia a dia, sempre entendendo a arquitetura antes de mexer no código.
 
 ```ts
 const jhordan = {
-  cargo: "Desenvolvedor Fullstack",
+  cargo: "Fullstack & AI Engineer",
+  agora: "BNW · agentes de IA para prospecção B2B",
   local: "Boituva, SP",
   trabalho: ["remoto", "híbrido", "presencial · Sorocaba e região"],
   formacao: "Ciência da Computação · UNIP · conclusão em 2027",
-  foco: ["Node.js + TypeScript", "React", "integrações e pagamentos", "agentes de IA e MCP"],
+  foco: ["Node.js + TypeScript", "React", "agentes de IA, LLMs e MCP", "pagamentos, webhooks e ERP"],
   tambem: ["Java + Spring Boot", "SQL avançado", "Salesforce Commerce Cloud"],
   abordagem: "seguir o problema até a causa, não só o sintoma",
   status: "aberto a vagas",
@@ -79,9 +80,10 @@ const jhordan = {
 
 ## `> agora`
 
+- 🤖 **Trabalhando na BNW:** agentes de IA e automações de prospecção B2B, com pesquisa de mercado, enriquecimento de dados e mensagens geradas por LLM
+- ✅ **Reconcilia no ar (v1.0):** conciliação de pagamentos entre loja, gateway e ERP com agente de IA e aprovação humana · [demo ao vivo](https://reconcilia-seven.vercel.app)
 - 🏠 **Construindo a Orlatech:** site e gestão comercial para imobiliárias, com um sócio que cuida do comercial enquanto eu cuido da parte técnica
-- 🔨 **Desenhando o Reconcilia:** conciliação de pagamentos entre loja, gateway e ERP, com um agente de IA que investiga cada divergência e sugere a correção (NestJS + Next.js)
-- 📚 **Estudando:** NestJS e filas com BullMQ, a base do Reconcilia
+- 📚 **Estudando:** RAG e IA com Python
 - 🎓 **Cursando:** Ciência da Computação na UNIP
 - 💬 **Procurando:** vagas fullstack ou backend em fintechs, empresas de IA e startups
 
@@ -90,6 +92,23 @@ const jhordan = {
 ## `> projetos`
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧾 [Reconcilia](https://github.com/devBandeiraa/reconcilia) · conciliação de pagamentos com IA &nbsp;<a href="https://reconcilia-seven.vercel.app"><img src="https://img.shields.io/badge/demo-ao_vivo-3FB950?style=flat-square" alt="Demo ao vivo" align="center"/></a>
+
+**Encontra pagamentos que não batem entre loja, gateway e ERP. A IA sugere; uma pessoa aprova.**
+
+- Detecta webhook perdido, webhook duplicado, valor divergente e captura de pedido já cancelado
+- **Idempotência no banco:** o mesmo webhook 50 vezes em paralelo vira 1 linha, 1 job e 1 aplicação
+- **Ledger em partidas dobradas** que sempre fecha em zero, garantido por trigger no Postgres
+- Agente de IA com ferramentas só de leitura investiga cada caso; a ação só roda após aprovação humana, com auditoria
+- Simulador determinístico com gabarito valida a conciliação; no ar com custo zero (Vercel, Render e Neon)
+
+`NestJS` `Next.js` `TypeScript` `Prisma` `PostgreSQL` `pg-boss` `Zod` `LLMs`
+
+</td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
 
@@ -176,7 +195,24 @@ const jhordan = {
 ## `> git log --experiencia`
 
 <details open>
-<summary>💼 &nbsp;<b>Desenvolvedor Fullstack Júnior — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jun/2026</code> · remoto</summary>
+<summary>🤖 &nbsp;<b>Fullstack & AI Engineer — BNW</b> &nbsp;·&nbsp; <code>mar/2026 – atual</code> · remoto</summary>
+
+<br/>
+
+Agentes de IA e automações para prospecção B2B em uma startup de GTM Engineering, gerando oportunidades de negócio para empresas no Brasil e no exterior.
+
+- Construção e orquestração de **agentes de IA com tool calling** para pesquisa de mercado, identificação de empresas e decisores e coleta de sinais de compra
+- Enriquecimento de dados de empresas e pessoas via APIs e crawlers
+- Pipelines de qualificação e **scoring de leads** por perfil de cliente ideal (ICP)
+- Geração e personalização de mensagens com LLMs, com foco em qualidade e naturalidade
+- Classificação automática de respostas e automação de follow-ups
+- Backend da plataforma **SaaS multi-cliente e white-label** para agências, em Node.js e TypeScript
+- Contato direto com o time e clientes para evoluir o produto em ciclos curtos
+
+</details>
+
+<details>
+<summary>💼 &nbsp;<b>Desenvolvedor Fullstack Júnior — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jul/2026</code> · remoto</summary>
 
 <br/>
 
@@ -188,6 +224,7 @@ Sustentação e evolução de lojas B2C de alta demanda em Salesforce Commerce C
 - Automatizei jobs de sincronização de pedidos, pagamentos e estoque com o ERP
 - Corrigi validações de checkout e o tratamento de datas e timezone que gerava divergência em pedidos
 - Migrei o front-end de Bootstrap 4 para 5 e mantive componentes Vue.js sem impacto na navegação
+- Trabalhei com QA e analistas funcionais em Scrum, com code review e pull requests no Git
 
 </details>
 
