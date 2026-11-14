@@ -284,4 +284,4 @@ Dados corporativos com ERPs de grande porte (TOTVS RM, Protheus e SAP).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:79C0FF,100:0D1117&height=120&section=footer"/>
 
-</div>
+</div> 
