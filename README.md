@@ -62,7 +62,7 @@ Encontra pagamentos que não batem entre loja, gateway e ERP. Um agente de IA in
 |---|---|---|
 | **[Hash Financeiro](https://github.com/devBandeiraa/hash-financeiro)** | Finanças pessoais com um agente de IA que consulta os dados reais do usuário por um servidor MCP próprio com OAuth; dados isolados por RLS | TypeScript, React 19, TanStack Start, Supabase, MCP |
 | **[ticket-platform](https://github.com/devBandeiraa/ticket-platform)** | Venda de ingressos em microsserviços sem overselling: `UPDATE` condicional no PostgreSQL, 356 testes com Testcontainers e 200 threads disputando o mesmo estoque | Java 17, Spring Boot 3, PostgreSQL, Redis, RabbitMQ, Kubernetes |
-| **[backend-challenge](https://github.com/devBandeiraa/backend-challenge)** | Processador de transações financeiras via HTTP e SQS, correto com eventos duplicados, fora de ordem e 3+ instâncias concorrentes | Bun, TypeScript, NestJS, PostgreSQL |
+| **[wagering-processor](https://github.com/devBandeiraa/wagering-processor)** | Processador de transações financeiras via HTTP e SQS, correto com eventos duplicados, fora de ordem e 3+ instâncias concorrentes | Bun, TypeScript, NestJS, PostgreSQL |
 | **[Help Desk Pro](https://github.com/devBandeiraa/help-desk)** | Sistema de chamados no ar, com JWT e refresh token, permissões por papel (RBAC) e dashboard analítico | Node.js, Express, Prisma, React |
 | **[emporio-da-musica-agent](https://github.com/devBandeiraa/emporio-da-musica-agent)** | Agente de atendimento para uma loja fictícia, com function calling sobre ferramentas tipadas e evals | Python, Gemini |
 | **[FlexAuction](https://github.com/devBandeiraa/flexauction-platform)** | Leilões online com lances em tempo real via WebSocket e anti-sniping | Node.js, Express, Prisma, React 19 |
