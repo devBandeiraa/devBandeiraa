@@ -195,7 +195,7 @@ const jhordan = {
 ## `> git log --experiencia`
 
 <details open>
-<summary>🤖 &nbsp;<b>Fullstack & AI Engineer — BNW</b> &nbsp;·&nbsp; <code>mar/2026 – atual</code> · remoto</summary>
+<summary>🤖 &nbsp;<b>Fullstack & AI Engineer — BNW</b> &nbsp;·&nbsp; <code>jul/2026 – atual</code> · remoto</summary>
 
 <br/>
 
@@ -212,7 +212,7 @@ Agentes de IA e automações para prospecção B2B em uma startup de GTM Enginee
 </details>
 
 <details>
-<summary>💼 &nbsp;<b>Desenvolvedor Fullstack Júnior — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jul/2026</code> · remoto</summary>
+<summary>💼 &nbsp;<b>Desenvolvedor Backend Jr B2C — Backlgrs</b> &nbsp;·&nbsp; <code>jan/2026 – jul/2026</code> · remoto</summary>
 
 <br/>
 
